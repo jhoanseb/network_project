@@ -1,5 +1,0 @@
-Cosas a mejorar en la implementación:
-- Mejorar la impresión en la interfaz de LOVE
-- Mejorar el movimiento de los enemigos - más agresividad
-  implementandolo con modelo de grafos y conjuntos disj.
-  y menor velocidad
